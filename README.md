@@ -1,1 +1,6 @@
 # TALLER-GIT
+INTEGRANTES:
+* 
+*
+*
+*
