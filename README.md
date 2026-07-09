@@ -1,6 +1,6 @@
 # TALLER-GIT
 INTEGRANTES:
-* 
+*  JOHN CHANG 
 *
 *
-* JOHN CHANG 
+*
